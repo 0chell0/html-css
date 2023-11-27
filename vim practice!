@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Tea Cozy</title>
+  <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+    <body>
+        <div class="container">     
+            <div class="cozy">Cozy Tea</div> 
+            <a class="link" href="#">About Us</a>
+            <a class="link" href="#">Featured Tea</a>      
+            <a class="link" href="#">Locations</a>
+        </div>  
+        <div class="coverpage">
+            <img class="background" src="img-mission-background.jpeg">
+            <div class="headers">
+            <div class="head-wrapper">
+            <div class="headergap">   
+            <div class="hdr-1">
+                <div class="headergap">
+                    <h1>Our Mission</h1>  
+                    <h2>Handpicked, Artisanally Curated, Free range, Sustainable, Small Batch, Fair Trade, Organic Tea</h2>
+                </div>
+            </div>
+            </div>
+            </div>
+            </div>     
+        </div>
+        <h1>Tea Gallery</h1>
+        <h2>Whats Steeping at The Cozy Tea</h2>
+        <div class="totm">
+            <div class="ourspecials">   
+                <img class="specials" src="img-berryblitz.jpeg" width="200px" height="150px">
+                <img class="specials" src="rum.jpeg" width="200px" height="150px">
+                <img class= "specials" src= "img-donut.jpeg" width="200px" height="150px">
+                <img class="specials" src="myrtle.jpeg" width="200px" height="150px">
+                <img class="specials" src="img-bedford.jpeg" width="200px" height="150px">
+            </div>
+        </div>
+        <div class="bottom-page">
+            <div class=location-wrap>
+                <div class="loc-title">Locations</div>
+                <div class="titles">
+                    <div>Downtown</div>
+                    <div>Eastbayside</div>
+                    <div>Oakdale</div>
+                </div>    
+                <div class="cubes">
+                    <div class="downtown">384 west 4th St Portland, Maine
+                    </div>
+                    <div class="eastbayside">3433 Phishermans Ave Portland, Maine
+                    </div> 
+                    <div class="oakdale">515 Crescent Ave Portland, Maine
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
