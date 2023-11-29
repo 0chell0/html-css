@@ -1,0 +1,30 @@
+body {
+
+}
+/* nav bar */
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid black;
+    width: 100%;
+    height: 64px;
+}
+
+.calmar-ac {
+    display: flex;
+    font-size: 32px;
+    width: 60%;
+    margin-left:24px;
+}
+
+.nav-icon {
+   align-items: center;
+}
+
+.nav-links {
+display: flex;
+margin-right: 24px;
+}
+
+/* container 1 */
